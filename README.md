@@ -1,5 +1,3 @@
 # Demo
 
 some description.
-
-hello
